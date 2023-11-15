@@ -63,7 +63,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker"
     },
     {
@@ -71,7 +71,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": ["Cooking", "Gardening"],
   "references": [],
   "projects": []
 }
