@@ -8,6 +8,6 @@ children:
     - title: research projects
       permalink: /projects/
     - title: divider
-    - title: available students projects
+    - title: projects available to students
       permalink: /student_projects/
 ---

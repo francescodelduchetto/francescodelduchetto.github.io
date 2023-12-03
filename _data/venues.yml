@@ -1,6 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"RAL":
+  url: https://www.ieee-ras.org/publications/ra-l
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"FRobAI":
+  url: https://www.frontiersin.org/journals/robotics-and-ai
+  color: "#33aa33"
+
+"Thesis":
+  color: "#aa0000"

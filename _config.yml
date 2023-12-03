@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  For UoL students who needs to meet me, book at: <a href=https://lncn.ac/bookfdd>https://lncn.ac/bookfdd</a>. For anyone else, please get in touch via fdelduchetto_at_lincoln.ac.uk 
+  <b>If you are a UoL student</b>, you can book a meeting with me at: <a href=https://lncn.ac/bookfdd>https://lncn.ac/bookfdd</a>.<br>Otherwise, get in touch via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
