@@ -29,6 +29,6 @@ related_publications: das2022unified, polvara2021navigate, del2019lindsey, del20
 </div>
 
 ## Projects
-- **Trustworthy and Explainable Robots for Agricultural Applications (AgriForwards CDT Studentship)**, Funded by *Douglas Bomford Trust, with a significant donation made by Tillett & Hague Technology Ltd*.
+- **Trustworthy and Explainable Robots for Agricultural Applications (AgriForwards CDT Studentship)**, Funded by *Douglas Bomford Trust, with a significant donation made by Tillett & Hague Technology Ltd*, University of Lincoln (PI: Dr Francesco Del Duchetto).
 - **Lindsey: the Tour Guide Robot**, Funded by *Lincolnshire County Council*, Partners: University of Lincoln (PI: Prof Marc Hanheide). Link: <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide">https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/</a>
 - **Trustworthy Accessible Robots for Inclusive Cultural experienceS (TARICS)**, Funded by *UKRI TAS Hub*, Partners: University of Lincoln (PI: Maria Galvez Trigo), University of Nottingham, Lincolnshire County Council, NICER Group - Nottingham International Consortium for Educational Research. Link: <a href="https://tas.ac.uk/research-projects-2022-23/tarics/">https://tas.ac.uk/research-projects-2022-23/tarics/</a>
