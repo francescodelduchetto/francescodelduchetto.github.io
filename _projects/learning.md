@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning from the human feedback
+title: Learning from human feedback
 description: This line of work explores ways robots deployed "in the wild" can learn leverage the human presence for learning to get better over time, improving quality of human-robot interaction and the robot's autonomy.
 img: assets/img/lindblur-short.jpg
 importance: 1
