@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: other
 nav: true
 nav_order: 7
 dropdown: true
 children:
-    - title: research projects
-      permalink: /projects/
+    - title: people
+      permalink: /people/
     - title: divider
     - title: projects available to students
       permalink: /student_projects/

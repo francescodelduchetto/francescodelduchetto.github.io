@@ -2,11 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Lecturer 
 
-Organize your courses by years, topics, or universities, however you like!
+- **Introduction to Robotics** (RBT1001), 2023 -
+- **Advanced Software Engineering** (CMP9134), 2023 -
+- **Programming Fundamentals** (CMP1902), 2022 -
+- **Maths for Computing** (CMP1036), 2022 - 2023
+
+## Associate demonstrator
+
+- **Machine Learning**, Autumn term 2019/2020
+- **Autonomous and Mobile Robotics**, Spring term 2019/2020
+
+## Info for Lincoln's students
+
+- You can find a list of proposal for student projects at: <a href="/student_projects/">students projects</a>. I am also open to other ideas that fits with my broader <a href="/projects/">research areas</a>
+
+- You can book a meeting with me at: <a href="https://lncn.ac/bookfdd">https://lncn.ac/bookfdd</a>. Otherwise, get in touch via email.

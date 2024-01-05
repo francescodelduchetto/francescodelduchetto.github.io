@@ -13,18 +13,18 @@ related_publications: das2022unified, polvara2021navigate, del2019lindsey, del20
 ## Videos
 <div class="row">
     <div class="col-6">
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yZnH8gXVtcg?si=tPnqqSpHP2leVBR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
-    <div class="col-6">
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gLYIWcQfXHA?si=TGS4zDQrXUEUmwRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
-</div>
-<div class="row">
-    <div class="col-6">
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x6rA5E_Belk?si=68Xs_M498rLtlXoa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     <div class="col-6">
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/05JMypZElnU?si=eOKIy_GxScrJ9umi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yZnH8gXVtcg?si=tPnqqSpHP2leVBR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <div class="col-6">
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gLYIWcQfXHA?si=TGS4zDQrXUEUmwRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 
