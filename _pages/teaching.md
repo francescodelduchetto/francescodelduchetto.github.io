@@ -19,7 +19,7 @@ nav_order: 5
 - **Machine Learning**, Autumn term 2019/2020
 - **Autonomous and Mobile Robotics**, Spring term 2019/2020
 
-## Info for Lincoln's students
+## Info for Lincoln students
 
 - You can find a list of proposal for student projects at: <a href="/student_projects/">students projects</a>. I am also open to other ideas that fits with my broader <a href="/research/">research areas</a>
 
