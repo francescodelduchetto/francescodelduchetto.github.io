@@ -21,6 +21,6 @@ nav_order: 5
 
 ## Info for Lincoln's students
 
-- You can find a list of proposal for student projects at: <a href="/student_projects/">students projects</a>. I am also open to other ideas that fits with my broader <a href="/projects/">research areas</a>
+- You can find a list of proposal for student projects at: <a href="/student_projects/">students projects</a>. I am also open to other ideas that fits with my broader <a href="/research/">research areas</a>
 
 - You can book a meeting with me at: <a href="https://lncn.ac/bookfdd">https://lncn.ac/bookfdd</a>. Otherwise, get in touch via email.
