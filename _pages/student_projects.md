@@ -22,7 +22,13 @@ In this project, you will work toward the creation of a dataset of videos of peo
 *Related work*:
 - Harmonizing the object recognition strategies of deep neural networks with humans. <a href="https://serre-lab.github.io/Harmonization/">https://serre-lab.github.io/Harmonization/</a>
 - Are You Still With Me? Continuous Engagement Assessment From a Robot's Point of View. <a href="https://www.frontiersin.org/articles/10.3389/frobt.2020.00116/full">https://www.frontiersin.org/articles/10.3389/frobt.2020.00116/full</a>
- 
+  
+### Generative AI for Face Anonymisation in Videos
+
+Current approaches to anonymising people from publicly-recorded videos is using blurring effects that completely covers identifiable features. However, many real-world applications require the detection of facial features while ensuring anonymity, such as emotions or gaze detection in public spaces. Generative AI could solve this problem by changing face identities in videos while keeping key face features unchanged. In this project, the student will perform a lit review on Generative AI approaches for anonymisation and develop a model to perform such task based on publicly available video datasets. 
+*Related work*:
+- A generative adversarial network for face anonymization. <a href="https://link.springer.com/chapter/10.1007/978-3-030-33720-9_44">https://link.springer.com/chapter/10.1007/978-3-030-33720-9_44</a>
+
 ### Modelling Human Generated Trajectories for Robot Navigation Failures
 
 In this project, you will develop a machine learning model that takes in input a series of robot navigation trajectories from human demonstrations and learns to reproduce these trajectories in the same spatial contexts.
