@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lcas.lincoln.ac.uk/wp/'>L-CAS</a> &#8226; <a href="https://www.lincoln.ac.uk/home/seps/">School of Engineering and Physical Sciences</a> &#8226; <a href="http://lincoln.ac.uk/home/">University of Lincoln</a>
+subtitle: <a href='https://lcas.lincoln.ac.uk/wp/'>L-CAS</a> &#8226; <a href="https://www.lincoln.ac.uk/engphys/">School of Engineering and Physical Sciences</a> &#8226; <a href="http://lincoln.ac.uk/home/">University of Lincoln</a>
 
 profile:
   align: right
