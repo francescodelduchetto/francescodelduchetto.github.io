@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning from human feedback
-description: This line of work explores ways robots deployed "in the wild" can learn leverage the human presence for learning to get better over time, improving quality of human-robot interaction and the robot's autonomy.
+description: This line of work explores ways robots deployed "in the wild" can leverage the human presence for learning to get better over time, improving quality of human-robot interaction and the robot's autonomy.
 img: assets/img/lindblur-short.jpg
 importance: 1
 category: research
@@ -29,5 +29,6 @@ When we take our robots outside the labs, due to the unconstrained nature of rea
 
 ## Projects
 
+- **Principles of Learning from UnStructured Human-Robot Interactions (PLUS-HRI)**, Funded by the *EPSRC UK-RAS Network* Low TRL Research Activities scheme (PI: Francesco Del Duchetto). Link: <a href="https://lcas.lincoln.ac.uk/wp/research/projects/plus-hri/">https://lcas.lincoln.ac.uk/wp/research/projects/plus-hri/</a>
 - **Lindsey: the Tour Guide Robot**, Funded by *Lincolnshire County Council*, Partners: University of Lincoln (PI: Prof Marc Hanheide). Link: <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide">https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/</a>
 - **Trustworthy Accessible Robots for Inclusive Cultural experienceS (TARICS)**, Funded by *UKRI TAS Hub*, Partners: University of Lincoln (PI: Maria Galvez Trigo), University of Nottingham, Lincolnshire County Council, NICER Group - Nottingham International Consortium for Educational Research. Link: <a href="https://tas.ac.uk/research-projects-2022-23/tarics/">https://tas.ac.uk/research-projects-2022-23/tarics/</a>
