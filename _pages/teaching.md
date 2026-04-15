@@ -24,6 +24,12 @@ nav_order: 5
 - **Machine Learning**, Autumn term 2019/2020
 - **Autonomous and Mobile Robotics**, Spring term 2019/2020
 
+## Guest lectures
+
+- **Advanced AI**, University of Lincoln
+- **Robot Programming**, University of Lincoln
+- **Frontiers of Computer Science Research**, University of Lincoln
+
 ## Info for Lincoln students
 
 - If you are looking to do a project or be an intern with me, I am happy to supervise you on topics that broadly fit with my <a href="/research/">research areas</a>.
