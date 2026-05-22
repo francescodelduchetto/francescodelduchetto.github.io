@@ -8,3 +8,11 @@
 
 "Thesis":
   color: "#aa0000"
+
+"HRI":
+  url: https://humanrobotinteraction.org/
+  color: "#e6550d"
+
+"JFR":
+  url: https://onlinelibrary.wiley.com/journal/15564967
+  color: "#6a3d9a"

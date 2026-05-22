@@ -1,77 +1,156 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Francesco Del Duchetto",
+    "label": "Lecturer in Robotics and Autonomous Systems",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "fdelduchetto@lincoln.ac.uk",
+    "phone": "",
+    "url": "https://francescodelduchetto.github.io",
+    "summary": "Lecturer (Assistant Professor) in Robotics and Autonomous Systems at the University of Lincoln, researching Social Robot Learning from Human Interactions and Social Robotics for Education and Assistive Domains.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Isaac Newton Building",
+      "postalCode": "LN6 7TS",
+      "city": "Lincoln",
+      "countryCode": "UK",
+      "region": "Lincolnshire"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "fdelduchetto",
+        "url": "https://twitter.com/fdelduchetto"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "University of Lincoln, UK",
+      "position": "Lecturer (Assistant Professor) in Robotics and Autonomous Systems",
+      "url": "https://lcas.lincoln.ac.uk/wp/",
+      "startDate": "2022-07-01",
+      "endDate": "",
+      "summary": "Lincoln Centre for Autonomous Systems (L-CAS), Interactive Technologies Lab, Autism Research Innovation Centre. School of Engineering and Physical Sciences. Teaching and Research profile. Deputy Lead BSc Robotics.",
       "highlights": [
-        "Relativity"
+        "Social Robot Learning from Human Interactions",
+        "Social Robotics for Education and Assistive Domains"
+      ]
+    },
+    {
+      "name": "University of Lincoln, UK",
+      "position": "PostDoctoral Research Associate",
+      "url": "https://www.tas.ac.uk/research-projects-2022-23/tarics",
+      "startDate": "2022-01-01",
+      "endDate": "2022-06-30",
+      "summary": "UKRI TAS Hub project TARICS. Led robot development and perception algorithms for engagement detection with people with intellectual disabilities.",
+      "highlights": []
+    },
+    {
+      "name": "Saga Robotics, Lincoln, UK",
+      "position": "Robotics Software Engineer",
+      "url": "https://sagarobotics.com/",
+      "startDate": "2021-05-01",
+      "endDate": "2022-01-01",
+      "summary": "Topological Navigation framework for multi-robot task execution in field environments.",
+      "highlights": []
+    },
+    {
+      "name": "Saga Robotics & L-CAS, University of Lincoln, UK",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2020-08-01",
+      "endDate": "2021-05-01",
+      "summary": "In-field logistics for soft-fruit production: human localisation/prediction, multi-robot coordination. Team leader.",
+      "highlights": [
+        "IEEE RA-L publication"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Lincoln, UK",
+      "url": "https://lcas.lincoln.ac.uk/wp/",
+      "area": "Computer Science",
+      "studyType": "MPhil/PhD",
+      "startDate": "2018-10-01",
+      "endDate": "2023-01-01",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Sapienza University of Rome, Italy",
+      "url": "https://www.uniroma1.it/en",
+      "area": "Artificial Intelligence and Robotics",
+      "studyType": "Master's Degree",
+      "startDate": "2015-10-01",
+      "endDate": "2018-07-01",
+      "score": "110/110 cum laude",
+      "courses": []
+    },
+    {
+      "institution": "University of Bologna, Italy",
+      "url": "https://www.unibo.it/en",
+      "area": "Computer Science and Engineering",
+      "studyType": "Undergraduate Degree",
+      "startDate": "2012-10-01",
+      "endDate": "2015-07-01",
+      "score": "110/110 cum laude",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "CreaTech Coronation Challenge",
+      "date": "2024-09-01",
+      "awarder": "The Royal Anniversary Trust & DCMS",
+      "summary": "Case study on Lindsey the Tour Guide Robot."
+    },
+    {
+      "title": "Best Paper Award on Cognitive Robotics Finalist",
+      "date": "2022-10-01",
+      "awarder": "IEEE/RSJ IROS 2022",
+      "summary": "Kyoto, Japan."
+    },
+    {
+      "title": "HRI Pioneers",
+      "date": "2020-03-01",
+      "awarder": "ACM/IEEE HRI",
+      "summary": "HRI Pioneers Workshop, Cambridge, UK."
+    },
+    {
+      "title": "PhD Scholarship",
+      "date": "2018-10-01",
+      "awarder": "University of Lincoln & Lincolnshire County Council",
+      "summary": ""
+    },
+    {
+      "title": "Erasmus Scholarship",
+      "date": "2017-09-01",
+      "awarder": "Sapienza University of Rome",
+      "summary": ""
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "name": "Associate Fellowship (AFHEA)",
+      "date": "2023-01-01",
+      "issuer": "Advance HE",
+      "url": ""
+    }
+  ],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "Italian",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native speaker"
     }
   ],
-  "interests": ["Cooking", "Gardening"],
+  "interests": [],
   "references": [],
   "projects": []
 }

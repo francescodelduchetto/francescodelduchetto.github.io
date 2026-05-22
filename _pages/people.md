@@ -13,11 +13,12 @@ nav_order: 6
 - **Mike Wright** (PhD Student). Working on: " Brain GPS System in Pathfinding". 2022-2027.
 - **Ahmad Faris** (Research Assistant). Working on: UKRAS Fundamental Research Grant "Principles of Learning from Unstructured Human-Robot Interactions". 2025.
 - **Dotun Olutunbi** (MSc by Research). Working on: "AI-enabled robots for collaborative storytelling". 2025-2026.
-- **Shawn Martin** (Undergraduate Research Opportunities student). Working on: "Interactive Medical Assessment Robots". 2025
+- **Nivisha Vivek** (Research Intern). Working on: "Multimodal Emotion Recognition and LLM-Based Adaptive Psychotherapy Response System". 2026
 
 
 ## Past
 
+- **Shawn Martin** (Undergraduate Research Opportunities student). Working on: "Interactive Medical Assessment Robots". 2025
 - **Nikolaus Wagner** (Research Assistant). Working on: "Multimodal topological localisation of humans in farm environments". 2024.
 - **Alex Elias** (Research Assistant). Working on: "Guiding Robot Guides: developing guidelines for robotic technologies in cultural spaces". 2023.
 - **Jacob Swindell** (L-CAS summer intern undergraduate student). Working on: "Integrating vision and manipulation to open doors with a TIAGo robot". 2022.

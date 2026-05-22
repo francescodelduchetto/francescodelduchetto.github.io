@@ -1,34 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Hanheide":
+  - firstname: ["Marc", "M.", "M. H."]
+    url: https://www.hanheide.net/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Baxter":
+  - firstname: ["Paul", "P."]
+    url: https://scholar.google.com/citations?user=2cL5RCIAAAAJ
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Kucukyilmaz":
+  - firstname: ["Ayse", "A."]
+    url: https://scholar.google.com/citations?user=8C0PNIMAAAAJ
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Polvara":
+  - firstname: ["Riccardo", "R."]
+    url: https://scholar.google.com/citations?user=07P7WAYAAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Iocchi":
+  - firstname: ["Luca", "L."]
+    url: https://sites.google.com/a/dis.uniroma1.it/iocchi/home
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Guevara":
+  - firstname: ["Leonardo", "L."]
+    url: https://scholar.google.com/citations?user=K9cMiYkAAAAJ
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Neumann":
+  - firstname: ["Gerhard", "G."]
+    url: https://alr.anthropomatik.kit.edu/21_65.php
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Cielniak":
+  - firstname: ["Grzegorz", "G."]
+    url: https://scholar.google.com/citations?user=F09nSCYAAAAJ
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Das":
+  - firstname: ["Gautham", "G."]
+    url: https://scholar.google.com/citations?user=ZlHHtEoAAAAJ

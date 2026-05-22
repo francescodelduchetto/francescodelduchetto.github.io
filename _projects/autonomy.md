@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Robot autonomy
-description: Deplyoing robots in the real world requires a range of techniques which ensure robots can safely and reliably operate in challenging environments, such as agricultural farms and public spaces.
+title: Robots for Agriculture and Sustainability
+description: Building trustworthy autonomous robots for agricultural and environmental applications — from multi-robot field navigation and people localisation to precision farming and animal welfare monitoring.
 img: assets/img/agri-robot-short.jpg
 importance: 3
 category: research
-related_publications: das2022unified, polvara2021navigate, del2019lindsey, del2018not, del2023wild
+related_publications: polvara2021navigate, das2024unified, perrett2026automated, del2023wild, attenborough2025rag
 ---
 
 
+
+## Summary
+
+Agriculture and environmental monitoring are domains where autonomous robots can have a profound real-world impact. This strand of research focuses on making robots reliable, trustworthy, and useful in unstructured outdoor environments. This includes multi-robot topological navigation for soft-fruit farms, human localisation and prediction in the field, explainable robot behaviours for agricultural operators, and monitoring systems for animal welfare. A thread running through all of this is robustness: robots that fail gracefully, communicate their limitations, and remain useful in the long run.
 
 ## Videos
 <div class="row">
@@ -16,19 +20,12 @@ related_publications: das2022unified, polvara2021navigate, del2019lindsey, del20
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x6rA5E_Belk?si=68Xs_M498rLtlXoa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     <div class="col-6">
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/05JMypZElnU?si=eOKIy_GxScrJ9umi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
-    </div>
-</div>
-<div class="row">
-    <div class="col-6">
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yZnH8gXVtcg?si=tPnqqSpHP2leVBR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
-    <div class="col-6">
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gLYIWcQfXHA?si=TGS4zDQrXUEUmwRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 
 ## Projects
-- **Trustworthy and Explainable Robots for Agricultural Applications (AgriForwards CDT Studentship)**, Funded by *Douglas Bomford Trust, with a significant donation made by Tillett & Hague Technology Ltd*, University of Lincoln (PI: Dr Francesco Del Duchetto).
-- **Lindsey: the Tour Guide Robot**, Funded by *Lincolnshire County Council*, Partners: University of Lincoln (PI: Prof Marc Hanheide). Link: <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide">https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/</a>
-- **Trustworthy Accessible Robots for Inclusive Cultural experienceS (TARICS)**, Funded by *UKRI TAS Hub*, Partners: University of Lincoln (PI: Maria Galvez Trigo), University of Nottingham, Lincolnshire County Council, NICER Group - Nottingham International Consortium for Educational Research. Link: <a href="https://tas.ac.uk/research-projects-2022-23/tarics/">https://tas.ac.uk/research-projects-2022-23/tarics/</a>
+- **Autonomous Robotics for Animal Welfare and Environmental Monitoring**, Funded by *BBSRC FoodBioSystems DTP* (PI: Dr Francesco Del Duchetto). University of Lincoln. 2026-2030.
+- **Trustworthy and Explainable Robots for Agricultural Applications**, Funded by *Douglas Bomford Trust* & *EPSRC AgriForwards CDT* (PI: Dr Francesco Del Duchetto). University of Lincoln. 2025-2027.
+- **ProPick: Using eye-tracking and AI to enhance the Performance Of fruit Pickers**, Funded by *EPSRC LINCAM AgriTech Cluster* (Co-PI: Dr Francesco Del Duchetto). 2025.
+- **Navigate-and-Seek: People Localisation in Agricultural Environments**, In collaboration with Saga Robotics & L-CAS, University of Lincoln. Link: <a href="https://doi.org/10.1109/lra.2021.3094557">doi:10.1109/lra.2021.3094557</a>
