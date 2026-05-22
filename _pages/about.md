@@ -9,6 +9,7 @@ profile:
   image: photo_profile_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p><span style="color: #515151;">(he/them)</span> <img src="/assets/img/progress_flag.png" alt="LGBTQI+ progress pride flag" style="height: 1.1em; width: auto; vertical-align: text-bottom;"></p>
     <p>3118 Isaac Newton building</p>
     <p>Brayford Pool</p>
     <p>Lincoln LN6 7TS, UK</p>
@@ -23,9 +24,11 @@ I am a Lecturer (Asst. Prof.) in Robotics and Autonomous Systems at the <a href=
 
 The aims of my research are endowing robots with the capabilities to operate autonomously in everyday human environments and to interact with people in a socially appropriate fashion. To this end, I develop methodologies for <a href="/projects/learning/">robot learning from human interactions</a>, I study and deploy <a href="/projects/perception/">social robots for and with people</a> in education, cultural, assistive, and public environments, and I build <a href="/projects/autonomy/">autonomous robots for agriculture and sustainability</a>.
 
-I am actively involved in <a href="/projects/competitions/">robotics competitions</a> for the advancement of the state-of-the-art in robotics and AI, and for introducing students to research topics in these fields. In 2023 I founded the <a href="https://lcastor.blogs.lincoln.ac.uk">LCASTOR</a> team, which participates annually to RoboCup @HOME competitions.
+I am actively involved in <a href="/projects/competitions/">robotics competitions</a> for the advancement of the state-of-the-art in robotics and AI, and for introducing students to research topics in these fields. In 2023 I co-founded the <a href="https://lcastor.lincoln.ac.uk">LCASTOR</a> team, which participates annually to RoboCup @HOME competitions.
 
-Before, I was a Post-Doctoral Research Associate working in the <a href="https://www.tas.ac.uk/research-projects-2022-23/tarics">TARICS project</a>, and a PhD student advised by <a href="https://www.hanheide.net/">Prof. Marc Hanheide</a> in the <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/">"Lindsey, the tour guide robot" project</a>. I graduated from Sapienza University of Rome with a MSc in “Artificial Intelligence and Robotics” advised by <a href="https://sites.google.com/a/dis.uniroma1.it/iocchi/home">Prof. Luca Iocchi</a> and from the University of Bologna with a BSc in “Computer Science and Engineering” advised by <a href="https://www.unibo.it/sitoweb/andrea.roli/en">Prof. Andrea Roli</a>.
+Before, I was a Post-Doctoral Research Associate working in the <a href="https://www.tas.ac.uk/research-projects-2022-23/tarics">TARICS project</a>, and a PhD student advised by <a href="https://www.hanheide.net/">Prof. Marc Hanheide</a> in the <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/">"Lindsey, the tour guide robot" project</a>. I graduated from Sapienza University of Rome with a MSc in “Artificial Intelligence and Robotics” and from the University of Bologna with a BSc in “Computer Science and Engineering”.
+
+<!-- Before, I was a Post-Doctoral Research Associate working in the <a href="https://www.tas.ac.uk/research-projects-2022-23/tarics">TARICS project</a>, and a PhD student advised by <a href="https://www.hanheide.net/">Prof. Marc Hanheide</a> in the <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/">"Lindsey, the tour guide robot" project</a>. I graduated from Sapienza University of Rome with a MSc in “Artificial Intelligence and Robotics” advised by <a href="https://sites.google.com/a/dis.uniroma1.it/iocchi/home">Prof. Luca Iocchi</a> and from the University of Bologna with a BSc in “Computer Science and Engineering” advised by <a href="https://www.unibo.it/sitoweb/andrea.roli/en">Prof. Andrea Roli</a>. -->
 
 
 **Research interests**: `Human-Robot Interaction`, `Cognitive Robotics`, `Interactive Machine Learning`, `AI`, `Long-Term Autonomy`

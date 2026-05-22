@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am serving as Area Chair for the ACM/IEEE HRI Late-Breaking Reports track and as Associate Editor for IEEE/RSJ IROS and ECMR conferences.
+I have served as Area Chair for the ACM/IEEE HRI Late-Breaking Reports track, as Associate Editor for IEEE/RSJ IROS, and in the Program Committee for ECMR.
