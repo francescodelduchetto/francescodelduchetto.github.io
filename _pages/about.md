@@ -9,10 +9,12 @@ profile:
   image: photo_profile_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <div style="text-align: right;">
     <p><span style="color: #515151;">(he/them)</span> <img src="/assets/img/progress_flag.png" alt="LGBTQI+ progress pride flag" style="height: 1.1em; width: auto; vertical-align: text-bottom;"></p>
     <p>3118 Isaac Newton building</p>
     <p>Brayford Pool</p>
     <p>Lincoln LN6 7TS, UK</p>
+    </div>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -31,4 +33,4 @@ Before, I was a Post-Doctoral Research Associate working in the <a href="https:/
 <!-- Before, I was a Post-Doctoral Research Associate working in the <a href="https://www.tas.ac.uk/research-projects-2022-23/tarics">TARICS project</a>, and a PhD student advised by <a href="https://www.hanheide.net/">Prof. Marc Hanheide</a> in the <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/">"Lindsey, the tour guide robot" project</a>. I graduated from Sapienza University of Rome with a MSc in “Artificial Intelligence and Robotics” advised by <a href="https://sites.google.com/a/dis.uniroma1.it/iocchi/home">Prof. Luca Iocchi</a> and from the University of Bologna with a BSc in “Computer Science and Engineering” advised by <a href="https://www.unibo.it/sitoweb/andrea.roli/en">Prof. Andrea Roli</a>. -->
 
 
-**Research interests**: `Human-Robot Interaction`, `Cognitive Robotics`, `Interactive Machine Learning`, `AI`, `Long-Term Autonomy`
+<!-- **Research interests**: `Human-Robot Interaction`, `Cognitive Robotics`, `Interactive Machine Learning`, `AI`, `Long-Term Autonomy` -->

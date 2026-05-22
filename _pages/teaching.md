@@ -10,6 +10,7 @@ nav_order: 5
 ## Module leader
 - **Software Engineering** (CMP9134), 2025 - 
 - **Data Programming in Python** (CMP9065), 2025 - 
+- **Foundations of Programming** (CMP1138), 2026 - 
 
 ## Lecturer 
 
