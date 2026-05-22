@@ -16,9 +16,6 @@ nav_order: 6
 - **Nivisha Vivek** (Research Intern). Working on: "Multimodal Emotion Recognition and LLM-Based Adaptive Psychotherapy Response System". 2026
 
 
-
-
-
 ## Past
 
 - **Shawn Martin** (Undergraduate Research Opportunities student). Working on: "Interactive Medical Assessment Robots". 2025
