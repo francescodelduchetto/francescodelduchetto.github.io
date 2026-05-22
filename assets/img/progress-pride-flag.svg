@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">LGBTQI+ progress pride flag</title>
+  <desc id="desc">Progress pride flag with rainbow stripes and chevron bands for black, brown, light blue, pink, and white.</desc>
+  <rect width="1200" height="120" y="0" fill="#E40303"/>
+  <rect width="1200" height="120" y="120" fill="#FF8C00"/>
+  <rect width="1200" height="120" y="240" fill="#FFED00"/>
+  <rect width="1200" height="120" y="360" fill="#008026"/>
+  <rect width="1200" height="120" y="480" fill="#004DFF"/>
+  <rect width="1200" height="120" y="600" fill="#750787"/>
+  <polygon points="0,0 420,360 0,720 120,720 520,360 120,0" fill="#000000"/>
+  <polygon points="0,0 350,360 0,720 185,720 535,360 185,0" fill="#784F17"/>
+  <polygon points="0,0 300,360 0,720 250,720 550,360 250,0" fill="#5BCFFA"/>
+  <polygon points="0,0 250,360 0,720 315,720 565,360 315,0" fill="#F5A9B8"/>
+  <polygon points="0,0 205,360 0,720 390,720 595,360 390,0" fill="#FFFFFF"/>
+</svg>
