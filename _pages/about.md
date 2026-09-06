@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer (Asst. Prof.) in Robotics and Autonomous Systems at the <a href="https://lcas.lincoln.ac.uk/wp/">Lincoln Centre for Autonomous Systems</a> at the University of Lincoln UK and an Associate Fellow of the Higher Education Academy (AFHEA). I am also a Management Board representative of L-CAS, and a member of <a href="https://www.intlab.co.uk/">Interaction Lab</a> and <a href="https://www.lincoln.ac.uk/psyspw/psychologyresearch/aric/">Autism Research and Innovation Centre</a>.
+I am a Senior Lecturer (Asst. Prof.) in Robotics and Autonomous Systems at the <a href="https://lcas.lincoln.ac.uk/wp/">Lincoln Centre for Autonomous Systems</a> at the University of Lincoln UK and an Associate Fellow of the Higher Education Academy (AFHEA). I am also a Management Board representative of L-CAS, and a member of <a href="https://www.intlab.co.uk/">Interaction Lab</a> and <a href="https://www.lincoln.ac.uk/psyspw/psychologyresearch/aric/">Autism Research and Innovation Centre</a>.
 
 The aims of my research are endowing robots with the capabilities to operate autonomously in everyday human environments and to interact with people in a socially appropriate fashion. To this end, I develop methodologies for <a href="/projects/learning/">robot learning from human interactions</a>, I study and deploy <a href="/projects/perception/">social robots for and with people</a> in education, cultural, assistive, and public environments, and I build <a href="/projects/autonomy/">autonomous robots for agriculture and sustainability</a>.
 

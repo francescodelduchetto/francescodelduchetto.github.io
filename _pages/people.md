@@ -11,13 +11,13 @@ nav_order: 6
 - **Aura Anderson-Ross** (<a class="title" href="https://www.sustain-cdt.ai/">UKRI SUSTAIN AI CDT</a> PhD Student). Working on: "Service Robots Interventions Promoting More Sustainable Buyers’ Choices in Supermarkets". 2024-2028.
 - **Robbie Cato** (<a class="title" href="https://agriforwards-cdt.blogs.lincoln.ac.uk/">EPSRC AgriForwards CDT</a> PhD Student). Working on: "Trustworthy and Explainable Robots for Agricultural Applications ". 2025-2031.
 - **Mike Wright** (PhD Student). Working on: " Brain GPS System in Pathfinding". 2022-2027.
-- **Ahmad Faris** (Research Assistant). Working on: UKRAS Fundamental Research Grant "Principles of Learning from Unstructured Human-Robot Interactions". 2025.
-- **Dotun Olutunbi** (MSc by Research). Working on: "AI-enabled robots for collaborative storytelling". 2025-2026.
-- **Nivisha Vivek** (Research Intern). Working on: "Multimodal Emotion Recognition and LLM-Based Adaptive Psychotherapy Response System". 2026
 
 
 ## Past
 
+- **Ahmad Faris** (Research Assistant). Working on: UKRAS Fundamental Research Grant "Principles of Learning from Unstructured Human-Robot Interactions". 2025.
+- **Dotun Olutunbi** (MSc by Research). Working on: "AI-enabled robots for collaborative storytelling". 2025-2026.
+- **Nivisha Vivek** (Research Intern). Working on: "Multimodal Emotion Recognition and LLM-Based Adaptive Psychotherapy Response System". 2026
 - **Shawn Martin** (Undergraduate Research Opportunities student). Working on: "Interactive Medical Assessment Robots". 2025
 - **Nikolaus Wagner** (Research Assistant). Working on: "Multimodal topological localisation of humans in farm environments". 2024.
 - **Alex Elias** (Research Assistant). Working on: "Guiding Robot Guides: developing guidelines for robotic technologies in cultural spaces". 2023.
